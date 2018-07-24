@@ -1,4 +1,4 @@
-# Gomo Dev Test
+# Node JS Server and Vue Test
 To run this nodejs, Vue and Sqlite application, you will need to...
 ## Server and API
 Navigate to the main directory and run
